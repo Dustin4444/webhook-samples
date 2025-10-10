@@ -12,7 +12,7 @@
     "node-fetch": "^3.3.1"
   },
   "devDependencies": {
-    "esrun": "^3.2.26",
+    "esrun": "^3.2.30",
     "@types/cheerio": "^0.22.31",
     "@types/node": "^18.15.0",
     "typescript": "^5.0.0"
