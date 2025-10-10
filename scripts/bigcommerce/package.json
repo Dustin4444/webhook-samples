@@ -14,7 +14,7 @@
   "devDependencies": {
     "esrun": "^3.2.26",
     "@types/cheerio": "^0.22.31",
-    "@types/node": "^18.15.0",
+    "@types/node": "^24.5.2",
     "typescript": "^5.0.0"
   }
 }
